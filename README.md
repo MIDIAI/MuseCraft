@@ -5,5 +5,14 @@
 
 ***
 
+## Project links:
+
+* [musetree](https://github.com/stevenwaterman/musetree)
+* [musicautobot_vueapp](https://github.com/bearpelican/musicautobot_vueapp)
+* [midi-model](https://github.com/SkyTNT/midi-model)
+* [SpessaSynth](https://github.com/spessasus/SpessaSynth)
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2024
