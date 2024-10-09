@@ -5,6 +5,14 @@
 
 ***
 
+## Install
+
+```sh
+pip install musecraft
+```
+
+***
+
 ## Project links:
 
 * ### [musetree](https://github.com/stevenwaterman/musetree)
