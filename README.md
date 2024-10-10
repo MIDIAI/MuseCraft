@@ -32,5 +32,11 @@ pip install musecraft
 
 ***
 
+## Contributions:
+
+### If you are interested in Symbolic Music AI and would like to contribute to the project, please do not hesitate to reach out or send a PR.
+
+***
+
 ### Project Los Angeles
 ### Tegridy Code 2024
