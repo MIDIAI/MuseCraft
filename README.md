@@ -13,6 +13,15 @@ pip install musecraft
 
 ***
 
+## Project core:
+
+### The implementation will be built upon the following codebases:
+
+### Interface: [signal](https://github.com/ryohey/signal/)
+### MIDI/SF2: [SpessaSynth](https://github.com/spessasus/SpessaSynth)
+
+***
+
 ## Project links:
 
 * ### [musetree](https://github.com/stevenwaterman/musetree)
