@@ -25,6 +25,7 @@ pip install musecraft
 ### The implementation will be built upon the following codebases:
 
 ### Interface: [midi-gen](https://github.com/WebChatAppAi/midi-gen)
+### Backends: [Project Los Angeles Hugging Face Endpoints](https://huggingface.co/spaces/projectlosangeles/)
 
 ***
 
@@ -46,4 +47,4 @@ pip install musecraft
 ***
 
 ### Project Los Angeles
-### Tegridy Code 2024
+### Tegridy Code 2025
