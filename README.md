@@ -13,7 +13,9 @@ pip install musecraft
 
 ***
 
-## [UPDATE 06/06/2025] Project will be developed together with [WebChatAppAi](https://github.com/WebChatAppAi) using [midi-gen](https://github.com/WebChatAppAi/midi-gen) codebase
+## [UPDATE 06/06/2025] 
+
+### Project will be developed together with [WebChatAppAi](https://github.com/WebChatAppAi) using [midi-gen](https://github.com/WebChatAppAi/midi-gen) codebase
 
 ### Please start, fork and join our development efforts if you can :)
 
@@ -22,13 +24,13 @@ pip install musecraft
 
 ### The implementation will be built upon the following codebases:
 
-### Interface: [signal](https://github.com/ryohey/signal/)
-### MIDI/SF2: [SpessaSynth](https://github.com/spessasus/SpessaSynth)
+### Interface: [midi-gen](https://github.com/WebChatAppAi/midi-gen)
 
 ***
 
 ## Project links:
 
+* ### [signal](https://github.com/ryohey/signal/)
 * ### [musetree](https://github.com/stevenwaterman/musetree)
 * ### [musicautobot_vueapp](https://github.com/bearpelican/musicautobot_vueapp)
 * ### [midi-model](https://github.com/SkyTNT/midi-model)
