@@ -17,7 +17,7 @@ pip install musecraft
 
 ### Project will be developed together with [WebChatAppAi](https://github.com/WebChatAppAi) using [midi-gen](https://github.com/WebChatAppAi/midi-gen) codebase
 
-### Please start, fork and join our development efforts if you can :)
+### Please star, fork and join our development efforts if you can :)
 
 ***
 ## Project core:
